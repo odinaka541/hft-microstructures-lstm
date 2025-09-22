@@ -1,0 +1,17 @@
+
+#
+*.csv
+*.json
+*.pkl
+*.pickle
+
+# visualizations
+*.png
+*.jpg
+*.jpeg
+
+#
+results/
+data/
+models/
+checkpoints/
