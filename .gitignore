@@ -6,9 +6,9 @@
 *.pickle
 
 # visualizations
-*.png
-*.jpg
-*.jpeg
+#*.png
+#*.jpg
+#*.jpeg
 
 #
 results/
