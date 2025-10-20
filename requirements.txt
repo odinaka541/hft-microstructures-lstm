@@ -1,4 +1,4 @@
-#
+# requirements for high-frequency microstructure lstm project
 
 numpy
 pandas
@@ -6,3 +6,5 @@ yfinance
 matplotlib
 scikit-learn
 torch
+streamlit
+plotly
